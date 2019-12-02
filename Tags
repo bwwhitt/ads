@@ -61,6 +61,37 @@ Tag: 300x250 desktop 4
   </script>
 </div>
 
+Tag: 160x600 sticky desktop 5
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<div id='gpt-passback-stpd-0-1574955837478'>
+  <script>
+     window.googletag = window.googletag || {cmd: []};
+       googletag.cmd.push(function() {
+         googletag
+           .defineSlot('/147246189/highschoolzoom.com_160x600_sticky_desktop_5_DFP', [160, 600], 'gpt-passback-stpd-0-1574955837478')
+           .addService(googletag.pubads());
+         googletag.enableServices();
+         googletag.display('gpt-passback-stpd-0-1574955837478');
+     });
+  </script>
+</div>
+
+
+Tag: 320x100 sticky anchorad mobile 6
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<div id='gpt-passback-stpd-0-1574955861595'>
+  <script>
+     window.googletag = window.googletag || {cmd: []};
+       googletag.cmd.push(function() {
+         googletag
+           .defineSlot('/147246189/highschoolzoom.com_320x100_sticky_anchorad_mobile_6_DFP', [320, 100], 'gpt-passback-stpd-0-1574955861595')
+           .addService(googletag.pubads());
+         googletag.enableServices();
+         googletag.display('gpt-passback-stpd-0-1574955861595');
+     });
+  </script>
+</div>
+
 **VIDEO ADS**
 Desktop:
 
